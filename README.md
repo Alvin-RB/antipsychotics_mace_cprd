@@ -16,19 +16,19 @@ This study aimed to emulate a trial on the following research question: In adult
 
 #### R Scripts
 
-1. [Cohort derivation]
+1. [Cohort derivation](https://github.com/Alvin-RB/antipsychotics_mace_cprd/blob/main/R%20Scripts/1.0%20AP%20and%20MACE%20-%20Cohort%20derivation_github.R)
    
-2. [Descriptive analysis]
+2. [Multiple imputation](https://github.com/Alvin-RB/antipsychotics_mace_cprd/blob/main/R%20Scripts/2.0%20AP%20and%20MACE%20-%20Multiple%20imputation_github.R)
    
-3. [Cardiometabolic outcomes]
+3. [Overlap weights](https://github.com/Alvin-RB/antipsychotics_mace_cprd/blob/main/R%20Scripts/3.0%20AP%20and%20MACE%20-%20Overlap%20weights_github.R)
 
-4. [Psychiatric hospitalisation outcome]
+4. [Descriptive analysis](https://github.com/Alvin-RB/antipsychotics_mace_cprd/blob/main/R%20Scripts/4.0%20AP%20and%20MACE%20-%20Descriptives_github.R)
 
-5. [Discontinuation and mortality outcomes]
+5. [Cox models](https://github.com/Alvin-RB/antipsychotics_mace_cprd/blob/main/R%20Scripts/5.0%20AP%20and%20MACE%20-%20Cox%20regression%20hazard%20ratios_github.R)
 
-6. [Cumulative incidence]
+6. [Pooled logistic regression](https://github.com/Alvin-RB/antipsychotics_mace_cprd/blob/main/R%20Scripts/6.0%20AP%20and%20MACE%20-%20Overlap%20weights%20and%20PLR%20-%20primary%20analysis_github.R)
 
-7. [Inverse probability of treatment weighting]
+7. [Inverse probability of censoring weighting - sensitivity analysis](https://github.com/Alvin-RB/antipsychotics_mace_cprd/blob/main/R%20Scripts/7.0%20AP%20and%20MACE%20-%20Sensitivity_IPCW_timevarying_github.R)
 
 #### Contact
 
