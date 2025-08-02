@@ -1,6 +1,6 @@
 # Risk of major adverse cardiovascular events with aripiprazole versus olanzapine, quetiapine, and risperidone in severe mental illness: a target trial emulation.
 
-<i>Status: Published</i>
+<i>Status: Under review</i>
 
 > Richards-Belle A, Launders N, Hardoon S, Man KKC, Davies NM, Bramon E, Hayes JF, Osborn DPJ. Risk of major adverse cardiovascular events with aripiprazole versus olanzapine, quetiapine, and risperidone in severe mental illness: a target trial emulation.
 
